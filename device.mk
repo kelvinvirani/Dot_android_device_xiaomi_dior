@@ -279,3 +279,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # LTE, GSM/WCDMA
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.telephony.get_imsi_from_sim=true
+
+# WFD
+    persist.debug.wfd.enable=1 \
+    persist.sys.wfd.virtual=0

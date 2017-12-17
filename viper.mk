@@ -20,10 +20,10 @@ $(call inherit-product, device/xiaomi/dior/device.mk)
 $(call inherit-product-if-exists, vendor/xiaomi/dior/dior-vendor.mk)
 
 # Inherit some common dotOS stuff (full)
-$(call inherit-product, vendor/dot/config/common_full_phone.mk)
+$(call inherit-product, vendor/viper/config/common_full_phone.mk)
 
 # Product configuration
-PRODUCT_NAME := dot_dior
+PRODUCT_NAME := viper_dior
 PRODUCT_DEVICE := dior
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi

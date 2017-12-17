@@ -51,4 +51,3 @@ Dot OTA-
 https://github.com/DotOS/services_apps_ota
 
 
-# dotos_dior

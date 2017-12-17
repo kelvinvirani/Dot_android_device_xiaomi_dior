@@ -1,6 +1,7 @@
 # viperos
 ##Feel the venom in your vein
 
+![viperos](https://camo.githubusercontent.com/986c31e2ce2e20eff8e7014f559f02f0147168f0/687474703a2f2f692e696d6775722e636f6d2f627753564453562e706e67)
 
 Viper Device tree for the Qualcomm Xiaomi Redmi Note 4G Single SIM
 - by kelvin virani

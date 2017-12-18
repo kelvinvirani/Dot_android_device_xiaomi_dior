@@ -28,5 +28,3 @@ git clone https://github.com/LineageOS/android_packages_resources_devicesettings
 git clone https://github.com/LineageOS/android_device_qcom_common.git -b cm-14.1 device/qcom/common
 
 -------------------------------------------------------------------------------------------------------------------
-
-![my pic](https://lh5.googleusercontent.com/-LMicjil8Y40/AAAAAAAAAAI/AAAAAAAAADc/FrbZdY020Ig/photo.jpg?sz=200)

@@ -28,3 +28,4 @@ git clone https://github.com/LineageOS/android_packages_resources_devicesettings
 git clone https://github.com/LineageOS/android_device_qcom_common.git -b cm-14.1 device/qcom/common
 
 -------------------------------------------------------------------------------------------------------------------
+![gib](http://chrisawren.com/images/posts/github/front-end-conftocat.png)

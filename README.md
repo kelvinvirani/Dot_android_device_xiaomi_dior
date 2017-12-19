@@ -35,19 +35,3 @@ git clone https://github.com/LineageOS/android_packages_resources_devicesettings
 ##device_qcom_common
 git clone https://github.com/LineageOS/android_device_qcom_common.git -b cm-14.1 device/qcom/common
 
------------------------------------------------------other things - personal - not fot you --------------------------------
-
-{}{dot.mk}{} ===  DOT_OFFICIAL := true   
-
-
-sourceforge
-sftp kelvinvirani@frs.sourceforge.net
-cd /home/frs/project/dotos-ota/dior
-Put DOT*.zip
-
-. build/envsetup.sh  ,  breakfast dior or lunch dot_dior-userdebug  ,  brunch dior
- 
-Dot OTA-
-https://github.com/DotOS/services_apps_ota
-
-

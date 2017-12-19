@@ -14,7 +14,7 @@ Device tree for the Qualcomm Xiaomi Redmi Note 4G Single SIM
  
  
 ##device tree-
-git clone https://github.com/kelvinvirani/dot_android_device_xiaomi_dior.git -b dotos-n device/xiaomi/dior
+git clone https://github.com/kelvinvirani/dot_android_device_xiaomi_dior.git -b dot-n device/xiaomi/dior
 
 
 ##kernel tree (ashish kotnala)-
